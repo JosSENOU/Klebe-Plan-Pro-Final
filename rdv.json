@@ -1,0 +1,1 @@
+{"message":"Rendez-vous cr\u00e9\u00e9 avec succ\u00e8s.","data":{"id":9,"nom":"Visiteur QA","date":"2026-09-10","heure":"10:00","lieu":"Bureau DG","statut":null,"notes":null,"cree_par":{"id":5,"nom":"Testeur QA"},"rappels":{"veille_envoye":false,"jour_j_envoye":false,"15min_envoye":false},"created_at":"2026-09-03T13:42:19+00:00","updated_at":"2026-09-03T13:42:19+00:00"}}
